@@ -1,0 +1,7 @@
+# ninja log v6
+4	406	7540833311601235	build.ninja	546f6b3947cf09f6
+2	648	7540833311847698	CMakeFiles/lab9_Es9_1.dir/main.cpp.obj	ddf0a2240f9cde2d
+5	650	7540833311887714	CMakeFiles/lab9_Es9_1.dir/iscrizione.cpp.obj	c8844b2d36420ca6
+650	883	7540833318337148	lab9_Es9_1.exe	b0a8a56aa91e0de5
+6	451	7540833678101010	CMakeFiles/lab9_Es9_1.dir/iscrizione.cpp.obj	c8844b2d36420ca6
+451	532	7540833682560047	lab9_Es9_1.exe	b0a8a56aa91e0de5
